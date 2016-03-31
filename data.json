@@ -1,0 +1,40 @@
+var data = [{
+        "customerID": 1,
+        "customerName": "Iris",
+        "products": ["nike shoes", "lipstick", "dress"],
+        "total": 20,
+        "date": "1-2-2016"
+    }, {
+        "customerID": 2,
+        "customerName": "Tina",
+        "products": ["sweater"],
+        "total": 50,
+        "date": "01-6-2016"
+    },
+
+    {
+        "customerID": 3,
+        "customerName": "Lala",
+        "products": ["hair dryer"],
+        "total": 20,
+        "date": "1-10-2016"
+    },
+
+    {
+        "customerID": 4,
+        "customerName": "JieYing",
+        "products": ["tickets", "cupcakes", "drinks"],
+        "total": 20,
+        "date": "1-15-2016"
+    },
+
+    {
+        "customerID": 5,
+        "customerName": "Anthony",
+        "products": ["jeans"],
+        "total": 20,
+        "date": "1-20-2016"
+    }
+
+
+]

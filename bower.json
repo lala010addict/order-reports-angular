@@ -1,0 +1,21 @@
+{
+  "name": "shop",
+  "main": "shop.js",
+  "homepage": "https://github.com/lala010addict/2015-10-thesis",
+  "authors": [
+    "jieyingpeng <jipeng@syr.edu>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-daterangepicker": "^0.2.2"
+  }
+}
